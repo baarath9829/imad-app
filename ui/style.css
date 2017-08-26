@@ -5,8 +5,8 @@ body {
 }
 .icon{
     text-align:left;
-    height: 200px;
-    width:200px;
+    height: 200;
+    width:200;
 }
 .title {
     text-align: center;
@@ -23,7 +23,7 @@ body {
 .content{
     text-align:left;
     font-family:Arial Rounded MT Bold;
-    font-size:20;
+    font-size:20px;
 }
 .text-big {
     font-size: 300%;
