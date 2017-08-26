@@ -6,8 +6,12 @@ body {
 
 .center {
     text-align: center;
-    color:#C0C0C0;
+    color:#000000;
     background-image:url(/ui/matrix.jpg);
+    font-family:Fixedsys;
+    font-size:20;
+    font-weight:bold;
+    
 }
 
 .text-big {
