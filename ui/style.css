@@ -6,8 +6,8 @@ body {
 
 .center {
     text-align: center;
-    color='#C0C0C0';
-    background-color='https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcTWYsXjGSFH5WJ7kj0TEX5DbWQ8VOQjItb_JWRbbWMt8mezZsaY1A';
+    color:#C0C0C0;
+    background-image:url(/ui/matrix.jpg);
 }
 
 .text-big {
