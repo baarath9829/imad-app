@@ -1,21 +1,30 @@
 body {
-    font-family: sans-serif;
-    background-color: lightgrey;
-    margin-top: 75px;
+    font-family: Fixedsys;
+    background-image: url(/ui/matrix.jpg);
+    margin-top: 30px;
 }
-.image{
+.icon{
     text-align:left;
+    height: 200px;
+    width:200px;
 }
-.center {
+.title {
     text-align: center;
-    color:#000000;
-    background-image:url(/ui/matrix.jpg);
-    font-family:Fixedsys;
-    font-size:20;
+    color:#9900CC ;
+    font-family:Bradley Hand ITC;
+    font-size:48px;
     font-weight:bold;
-    
 }
-
+.link {
+    text-align:left;
+    font-family:Berlin Sans FB Demi;
+    font-size:26;
+}
+.content{
+    text-align:left;
+    font-family:Arial Rounded MT Bold;
+    font-size:20;
+}
 .text-big {
     font-size: 300%;
 }
@@ -24,7 +33,4 @@ body {
     font-weight: bold;
 }
 
-.img-medium {
-    height: 200px;
-}
 
