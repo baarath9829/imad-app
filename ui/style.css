@@ -3,7 +3,9 @@ body {
     background-color: lightgrey;
     margin-top: 75px;
 }
-
+.image{
+    text-align:left;
+}
 .center {
     text-align: center;
     color:#000000;
